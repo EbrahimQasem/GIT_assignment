@@ -3,3 +3,5 @@ This is the initial contents
 of the first file that
 comprises the project.
 userA changed file at 12:01 pm
+userA modified file again 
+at 12:33pm.
