@@ -1,3 +1,8 @@
 This is the initial contents
-of the second file that comprises (userB changed the file)
+
+Now userA and userB have to take 
+some classes for GIT in order not 
+to have this problem again.
+ of the second file that comprises
+
 our most excellent project.
